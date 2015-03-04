@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0842241A-328F-447D-A151-A3F90F382FE7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Tappainter</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D47284F9-C36F-4593-A429-DBC2C7C9CCC8</key>
+		<string>deniscossaks@23.124.75.113:/volume1/git/tap_painter_ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Tappainter.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D47284F9-C36F-4593-A429-DBC2C7C9CCC8</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>deniscossaks@23.124.75.113:/volume1/git/tap_painter_ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D47284F9-C36F-4593-A429-DBC2C7C9CCC8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D47284F9-C36F-4593-A429-DBC2C7C9CCC8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>tap_painter_ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>

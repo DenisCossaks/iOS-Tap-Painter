@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[TPSwatchesViewController viewDidLoad]:TPSwatchesViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TPViewController observeValueForKeyPath:ofObject:change:context:]:TPViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TPBrandSelectionViewController tableView:didSelectRowAtIndexPath:]:TPBrandSelectionViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.selected">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TPBrandsManager loadBrandDataBrandID:]:TPBrandsManager.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TPPin grabColorAtTip]:TPPin.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.superview">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TPDraggablePinIcon touchesMoved:withEvent:]:TPDraggablePinIcon.m">
+      </ContextState>
+      <ContextState
+         contextName = "__52-[TPBrandsManager getBrandsListwithCompletionBlock:]_block_invoke:TPBrandsManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TPRecentColorCell setSelected:animated:]:TPRecentColorCell.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[UIImage(CS_Extensions) createCIImageWithColor:]:UtilityCategories.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TPRecentColorCell setTpColor:]:TPRecentColorCell.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TPImageScrollView setImageAsset:]:TPImageScrollView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.contentSize">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TPRecentColorsViewController tableView:cellForRowAtIndexPath:]:TPRecentColorsViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TPSwatchView useAction:]:TPSwatchView.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TPColorPickerViewController colorPickerChanged:]:TPColorPickerViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TPBrandsManager getBrandsListwithCompletionBlock:]:TPBrandsManager.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TPPresentingViewController viewDidAppear:]:TPPresentingViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "cameraViewController.view">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TPSwatchView cloneUseButton]:TPSwatchView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "array">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[KZColorPickerBrightnessCircle setKeyColor:]:KZColorPickerBrightnessCircle.m">
+      </ContextState>
+      <ContextState
+         contextName = "+[TPSavedColors instance]:TPSavedColors.m">
+      </ContextState>
+      <ContextState
+         contextName = "__31-[TPViewController viewDidLoad]_block_invoke:TPViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_selectedImageAsset">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TPViewController positionInImage:]:TPViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "imageView_.image.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[KZColorPickerSaturationSlider setKeyColor:]:KZColorPickerSaturationSlider.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TPSavedColors savedColors]:TPSavedColors.h">
+      </ContextState>
+      <ContextState
+         contextName = "__28-[TPPhoto initWithAssetURL:]_block_invoke:TPPhoto.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TPRoundedButton initWithCoder:]:TPRoundedButton.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
